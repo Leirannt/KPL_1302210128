@@ -1,0 +1,10 @@
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\bin\Debug\tpmodul3_1302210128.exe.config
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\bin\Debug\tpmodul3_1302210128.exe
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\bin\Debug\tpmodul3_1302210128.pdb
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\obj\Debug\tpmodul3_1302210128.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\obj\Debug\tpmodul3_1302210128.Form1.resources
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\obj\Debug\tpmodul3_1302210128.Properties.Resources.resources
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\obj\Debug\tpmodul3_1302210128.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\obj\Debug\tpmodul3_1302210128.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\obj\Debug\tpmodul3_1302210128.exe
+C:\Users\ariel\source\repos\tpmodul3_1302210128\tpmodul3_1302210128\obj\Debug\tpmodul3_1302210128.pdb
